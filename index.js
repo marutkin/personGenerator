@@ -35,7 +35,7 @@
         return 'Mister Robot';
       }
 
-      const randomName = `${capitalize(firstPart)} ${capitalize(secondPart)}}`;
+      const randomName = `${capitalize(firstPart)} ${capitalize(secondPart)}`;
 
       return randomName;
 
