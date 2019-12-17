@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/marutkin/personGenerator/issues"
   },
-  "homepage": "https://github.com/marutkin/personGenerator#readme"
+  "homepage": "https://github.com/marutkin/personGenerator#readme",
+  "dependencies": {
+    "fastify": "^2.11.0"
+  }
 }
