@@ -1,0 +1,22 @@
+{
+  "name": "personrobotgenerator",
+  "version": "1.0.0",
+  "description": "Generate list of robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marutkin/personGenerator.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Marutkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marutkin/personGenerator/issues"
+  },
+  "homepage": "https://github.com/marutkin/personGenerator#readme"
+}
