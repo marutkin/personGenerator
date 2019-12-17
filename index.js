@@ -2,7 +2,9 @@
 const { PG } = require('./pg.js');
 
 // Require the framework and instantiate it
-const fastify = require('fastify')({ logger: true })
+const fastify = require('fastify')()
+
+fastify.register(require('fastify-cors'))
 
 // Declare a route
 fastify.get('/', async (request, reply) => {
