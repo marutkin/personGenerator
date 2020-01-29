@@ -2,8 +2,9 @@
   "name": "personrobotgenerator",
   "version": "1.0.0",
   "description": "Generate list of robots",
-  "main": "index.js",
+  "main": "./src/api/index.js",
   "scripts": {
+    "start": "node ./src/api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
